@@ -9,6 +9,7 @@ function App() {
       </div>
     </div>
       <header>
+        <div className='nav-container0'>
         <div className="nav-container">
           <div>logo</div>
           <div className="selection-bar">
@@ -23,7 +24,11 @@ function App() {
             </nav>
           </div>
         </div>
+        </div>
       </header>
+      <div>
+        <div></div>
+      </div>
     </>
   )
 }
