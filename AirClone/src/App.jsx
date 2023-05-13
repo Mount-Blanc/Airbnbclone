@@ -1,8 +1,13 @@
-
+import './App.css'
 function App() {
 
   return (
     <>
+    <div className="banner">
+      <div>
+        <h1><span>Introducing Airbnb Rooms and 50+ features</span></h1>
+      </div>
+    </div>
       <header>
         <div className="nav-container">
           <div>logo</div>
