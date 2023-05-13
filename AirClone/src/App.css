@@ -5,15 +5,21 @@ body {
 .nav-container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  height:80px
 }
 .selection-bar {
   border-radius: 40px;
+  height:50px;
   background-color: white;
   box-shadow: 0 1px 2px rgba(0,0,0,0.08),0 4px 12px rgba(0,0,0,0.05);
+  display: flex;
+  padding-inline: 25px;
 }
 button {
   background: transparent;
   cursor: pointer;
+  border: none;
 }
 header {
   height: 80px;
