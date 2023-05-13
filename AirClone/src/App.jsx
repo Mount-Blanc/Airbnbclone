@@ -26,8 +26,28 @@ function App() {
         </div>
         </div>
       </header>
-      <div>
-        <div></div>
+      <div className='type-category'>
+        <div className='items'>
+          <span>Rooms</span>
+          <span>Beachfront</span>
+          <span>Amazing pools</span>
+          <span>OMG!</span>
+          <span>Amazing views</span>
+          <span>Tiny homes</span>
+          <span>Lakefront</span>
+          <span>Cabinis</span>
+          <span>Mansions</span>
+          <span>Treehouses</span>
+          <span>Trending</span>
+
+
+
+
+
+        </div>
+        <div className='filters'>
+          <button>Filters</button>
+        </div>
       </div>
     </>
   )
