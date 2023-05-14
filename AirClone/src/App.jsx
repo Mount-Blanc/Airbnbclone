@@ -49,6 +49,28 @@ function App() {
           <button>Filters</button>
         </div>
       </div>
+      <footer>
+        <div className='footer-container'>
+          <span>2023 Airbnb, Inc.</span>
+          <span>
+            <ol>
+              <li><a href=''>Terms</a></li>
+              <li><a href=''>Sitemap</a></li>
+              <li><a href=''>Privacy</a></li>
+              <li><a href=''>Your Privacy Choices</a></li>
+              <li><a href=''>Destinations</a></li>
+
+
+            </ol>
+          </span>
+            <div>
+          <div>English</div>
+          <div>USD</div>
+          <div>Support & resources</div>
+        </div>
+        </div>
+      
+      </footer>
     </>
   )
 }
