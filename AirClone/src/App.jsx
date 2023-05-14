@@ -53,7 +53,7 @@ function App() {
         <div className='footer-container'>
           <span>2023 Airbnb, Inc.</span>
           <span>
-            <ol>
+            <ol className='options'>
               <li><a href=''>Terms</a></li>
               <li><a href=''>Sitemap</a></li>
               <li><a href=''>Privacy</a></li>

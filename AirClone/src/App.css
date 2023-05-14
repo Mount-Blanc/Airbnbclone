@@ -58,4 +58,12 @@ header {
 }
 .footer-container {
   display: flex;
+  align-items: center;
+}
+.options {
+  display: flex;
+  list-style: none;
+}
+.options li a {
+text-decoration: none;
 }
